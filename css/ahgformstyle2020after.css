@@ -22,4 +22,46 @@
 	font-size:120%;
 	font-weight:bold;
 }
-.
+
+#speakerinfo li {
+	list-style: none;
+}
+
+#speakerinfo label {
+	text-align: right;
+	margin-right: .3em;
+	width: 6.3em;  
+	display: inline; 
+}
+
+.suggest_form label {
+	text-align: right;
+	margin-right: .3em;
+	width: 6.3em;  
+	display: inline; 
+}
+
+#speakerinfo label, input{
+	margin: 3px;
+}
+
+.oneques label{
+	text-align: right;
+	margin-right: .3em;
+	width: 6.3em;  
+	display: inline; 
+}
+
+#propinfo li {
+	list-style: none;
+}
+
+.form-instructions{
+	font-style: italic;
+    color: #575757;
+}
+
+input.reqfield{
+	background: #fff495;
+}
+
